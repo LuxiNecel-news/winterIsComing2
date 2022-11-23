@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auto Vergaser',de,Auto,#ee3725,#fe2735,1,0.85060006
 'Hochwasser Extremereignisse',de,Hochwasser,#2247f5,#3247e5,1,0.85030003
 'Ski Feldberg',de,Ski,#4287f5,#d0e9f4,1,0.850150015
-'Weinlese Starkregen',de,Weinlese,#9e3215,#69b959,1,0.85
 'Ski Schnee',de,Ski,#4287f5,#d0e9f4,3,0.8050690756590909
 'Weinlese Ernte',de,Weinlese,#9e3215,#69b959,1,0.7658325832499999
 'Ski Tourismus',de,Ski,#4287f5,#d0e9f4,1,0.7537068170714286
+'Weinlese Starkregen',de,Weinlese,#9e3215,#69b959,1,0.7224999999999999
 'Hochwasser Schneeschmelze',de,Hochwasser,#2247f5,#1247f5,1,0.7224999999999999

@@ -1,22 +1,21 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Manuel Hagel,Manuel Hagel,PER,0.0,0.0,de,5
-…,…,PER,0.0,0.0,de,4
-Metzger,Metzger,PER,0.0,0.0,de,2
-Berenberg,Berenberg,PER,0.0,0.0,de,2
-"Klaus Merker,","Klaus Merker,",PER,0.0,0.0,de,2
-Hagel,Hagel,PER,1.0,0.0,de,2
-Tom Brady,Tom Brady,PER,0.7,0.0,de,2
-Nicole Hoffmeister-Kraut,Nicole Hoffmeister-Kraut,PER,0.0,0.0,de,1
-Tom Weller/dpa,Tom Weller/dpa,PER,0.7,0.0,de,1
-Hoffmeister-Krau,Hoffmeister-Krau,PER,0.0,0.0,de,1
-Stefanie Dodt.</em,Stefanie Dodt.</em,PER,0.0,0.0,de,1
-Triste Bonussaison,Triste Bonussaison,PER,-0.5,0.5,de,1
-Tom Brady.,Tom Brady.,PER,0.0,0.0,de,1
+…,…,PER,0.0,0.0,de,3
+Schnee-Skibrille Markt,Schnee-Skibrille Markt,PER,0.0,0.0,de,3
+Liftbetreiber,Liftbetreiber,PER,0.0,0.0,de,3
+Wisla,Wisla,PER,0.0,0.0,de,2
+Ex-Ski-Star Maria Höfl-Riesch,Ex-Ski-Star Maria Höfl-Riesch,PER,0.0,0.0,de,2
+Klaus Rosenfeld,Klaus Rosenfeld,PER,0.35,0.0,de,2
+Stefan Kraft,Stefan Kraft,PER,0.0,0.0,de,2
+Olympia-Medaillengewinner,Olympia-Medaillengewinner,PER,0.0,0.0,de,2
+Andreas Wellinger,Andreas Wellinger,PER,-0.5,0.0,de,2
+Karl Geiger&nbsp;(29),Karl Geiger&nbsp;(29),PER,0.7,0.0,de,1
+Karl Geiger (29,Karl Geiger (29,PER,0.7,0.0,de,1
+Stefan Kraft:,Stefan Kraft:,PER,0.0,0.0,de,1
 Freier,Freier,PER,0.7,0.0,de,1
-nan Lange,nan Lange,PER,0.0,0.0,de,1
-Getreidedeal,Getreidedeal,PER,0.0,0.0,de,1
-BILDplus,BILDplus,PER,0.0,0.0,de,1
-Emanuel Reim,Emanuel Reim,PER,0.0,0.3333333333333333,de,1
-Steigende,Steigende,PER,0.0,0.3333333333333333,de,1
-Skandalprofi Antonio Brown,Skandalprofi Antonio Brown,PER,0.7,0.0,de,1
-lhdoenRi otsJ,lhdoenRi otsJ,PER,0.35,0.5,de,1
+Alga ents…,Alga ents…,PER,0.0,0.0,de,1
+Schnee-Star Maria Höfl-Riesch,Schnee-Star Maria Höfl-Riesch,PER,0.0,0.0,de,1
+Petra V…,Petra V…,PER,0.0,0.0,de,1
+fatales,fatales,PER,-1.0,0.0,de,1
+Winterurlaub,Winterurlaub,PER,0.0,0.0,de,1
+Gian …,Gian …,PER,0.0,0.0,de,1
+Steigende,Steigende,PER,0.0,1.0,de,1

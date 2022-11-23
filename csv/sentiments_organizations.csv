@@ -1,26 +1,15 @@
 ,phrase,label,sentiment,subjectivity,language,count
-EU,EU,ORG,0.0,0.6666666666666666,de,3
-CDU-Fraktion,CDU-Fraktion,ORG,0.7999999999999999,0.0,de,3
-Microsoft,Microsoft,ORG,0.0,0.0,de,3
-Südwest-CDU,Südwest-CDU,ORG,0.0,0.0,de,3
-Taliban,Taliban,ORG,0.0,0.0,de,2
-Hamburger Bank,Hamburger Bank,ORG,-0.7,0.0,de,2
-Landes-CDU,Landes-CDU,ORG,0.7,0.0,de,2
-Airbus,Airbus,ORG,1.0,0.0,de,1
-SP,SP,ORG,0.35,0.0,de,1
-DSP) weosi,DSP) weosi,ORG,0.35,0.0,de,1
-"Globale Gesellschaft
-","Globale Gesellschaft
-",ORG,0.7,0.0,de,1
-CDU-Landtagsfraktionschef: Hagel,CDU-Landtagsfraktionschef: Hagel,ORG,0.0,0.0,de,1
-"Foto: Bloomberg) 
-","Foto: Bloomberg) 
-",ORG,-0.7,0.0,de,1
-CDU,CDU,ORG,0.0,0.0,de,1
-Hamburger Bank Berenberg,Hamburger Bank Berenberg,ORG,-0.7,0.0,de,1
-Berenberg2021,Berenberg2021,ORG,-0.5,0.0,de,1
-E-Paper,E-Paper,ORG,0.7,0.0,de,1
+Schaeffler,Schaeffler,ORG,-0.07777777777777777,0.0,de,3
+Weltverbands,Weltverbands,ORG,0.0,0.0,de,2
+Hybrid-PKW,Hybrid-PKW,ORG,0.0,0.5,de,2
+…,…,ORG,0.0,0.0,de,2
+Organisatoren,Organisatoren,ORG,0.0,0.0,de,1
 SPIEGEL,SPIEGEL,ORG,0.7,0.0,de,1
-Klimakrise: Wie,Klimakrise: Wie,ORG,0.0,0.0,de,1
-Die CDU-Fraktion,Die CDU-Fraktion,ORG,1.0,0.0,de,1
-…,…,ORG,0.0,0.0,de,1
+E-Paper,E-Paper,ORG,0.7,0.0,de,1
+FOCUS,FOCUS,ORG,0.0,0.0,de,1
+Grüne,Grüne,ORG,0.0,0.0,de,1
+WELT,WELT,ORG,0.7,0.0,de,1
+Zukunf…,Zukunf…,ORG,0.0,0.0,de,1
+FIS,FIS,ORG,0.7,0.0,de,1
+Australien: Hubschrauber,Australien: Hubschrauber,ORG,0.0,0.0,de,1
+Meinungsforschungsinstituts Yougov zeigt,Meinungsforschungsinstituts Yougov zeigt,ORG,0.0,0.0,de,1

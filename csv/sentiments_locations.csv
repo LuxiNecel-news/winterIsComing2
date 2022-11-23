@@ -1,50 +1,73 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Afrika,Afrika,LOC,0.17499999999999996,0.25,de,6
-Saarland,Saarland,LOC,0.0,0.0,de,4
-Mississippi,Mississippi,LOC,-0.11666666666666665,0.16666666666666666,de,3
-Russland,Russland,LOC,-0.21666666666666667,0.16666666666666666,de,3
-USA,USA,LOC,-0.11666666666666665,0.16666666666666666,de,3
-Afghanistan,Afghanistan,LOC,0.0,0.0,de,3
-Sturmböen,Sturmböen,LOC,0.0,0.0,de,3
-Deutschlands,Deutschlands,LOC,0.2333333333333333,0.0,de,3
-Stuttgart:,Stuttgart:,LOC,0.0,0.0,de,2
-Südamerika,Südamerika,LOC,1.0,0.0,de,2
-Deutschland,Deutschland,LOC,0.0,0.0,de,2
-Landeshilfen,Landeshilfen,LOC,0.0,0.0,de,2
-Saarbrücker,Saarbrücker,LOC,0.175,0.75,de,2
-Saarland  ,Saarland  ,LOC,0.35,0.5,de,2
-Autobahn 8,Autobahn 8,LOC,-0.5,0.0,de,2
-Rehlingen,Rehlingen,LOC,-0.5,0.0,de,2
-Merzig,Merzig,LOC,-0.5,0.0,de,2
-Guatemala,Guatemala,LOC,0.0,0.0,de,2
-Mengen,Mengen,LOC,0.35,0.0,de,2
-Landtag:,Landtag:,LOC,1.0,0.0,de,2
-Globus,Globus,LOC,0.0,0.0,de,2
-Ukraine,Ukraine,LOC,-0.325,0.25,de,2
-Kreml,Kreml,LOC,-0.325,0.25,de,2
-Hagel-Sturm.,Hagel-Sturm.,LOC,0.0,0.0,de,1
-Riesiger Wasserverbrauch: Dürre,Riesiger Wasserverbrauch: Dürre,LOC,0.0,0.0,de,1
-Unwetter,Unwetter,LOC,0.0,0.0,de,1
-Extremwetter-Ereignissen,Extremwetter-Ereignissen,LOC,0.0,0.0,de,1
-Klima-Forscher,Klima-Forscher,LOC,0.0,1.0,de,1
-Hagelsturm,Hagelsturm,LOC,1.0,0.0,de,1
-Santiago de Chile,Santiago de Chile,LOC,0.0,0.0,de,1
-Asuncion,Asuncion,LOC,0.0,0.0,de,1
-Paraguay.,Paraguay.,LOC,0.0,0.0,de,1
-Höllen-Flug,Höllen-Flug,LOC,0.0,0.0,de,1
-Tornado,Tornado,LOC,0.35,0.5,de,1
-Spaniens,Spaniens,LOC,0.0,0.0,de,1
-Region Valencia,Region Valencia,LOC,0.0,0.0,de,1
-Opiumanbau,Opiumanbau,LOC,0.0,0.0,de,1
-Hagel-Sturm,Hagel-Sturm,LOC,-1.0,0.0,de,1
-Madrid.,Madrid.,LOC,0.0,0.0,de,1
-Heilbronner,Heilbronner,LOC,0.0,0.0,de,1
-Braunschweiger,Braunschweiger,LOC,0.0,0.0,de,1
-Triebwerksausfall,Triebwerksausfall,LOC,-1.0,0.0,de,1
-Hamburg,Hamburg,LOC,-0.7,0.0,de,1
-"Podcasts
-","Podcasts
-",LOC,0.7,0.0,de,1
-Audioinhalten,Audioinhalten,LOC,0.7,0.0,de,1
+Alpen,Alpen,LOC,0.16666666666666666,0.3333333333333333,de,6
+New South Wales,New South Wales,LOC,0.0,0.0,de,5
+Nordseestrand.,Nordseestrand.,LOC,0.0,0.0,de,4
+Europa,Europa,LOC,0.25,0.75,de,4
+Zürs,Zürs,LOC,0.0,0.0,de,3
+Australiens,Australiens,LOC,0.0,0.3333333333333333,de,3
+Australien,Australien,LOC,-0.3333333333333333,0.3333333333333333,de,3
+Levi,Levi,LOC,0.6666666666666666,0.0,de,3
+Skigebiete,Skigebiete,LOC,-0.2333333333333333,0.0,de,3
+Österreich,Österreich,LOC,0.0,0.0,de,2
+Deutschland,Deutschland,LOC,-0.35,0.0,de,2
+Australien.,Australien.,LOC,0.0,0.0,de,2
+Duisburg-Wanheimerort,Duisburg-Wanheimerort,LOC,0.0,0.0,de,2
+Duisburg,Duisburg,LOC,0.0,0.0,de,2
+Zermatt,Zermatt,LOC,-0.575,0.0,de,2
+Vielerorts,Vielerorts,LOC,0.7,0.0,de,2
+Sachsen,Sachsen,LOC,0.0,0.0,de,2
+fünfmaliger,fünfmaliger,LOC,0.0,0.0,de,2
+La Niña,La Niña,LOC,0.0,0.0,de,2
+Kontinents,Kontinents,LOC,0.0,0.0,de,2
+Herzogenauracher,Herzogenauracher,LOC,-0.35,0.0,de,2
+Skihänge,Skihänge,LOC,0.0,1.0,de,2
+China,China,LOC,0.0,0.0,de,2
+USA,USA,LOC,0.0,0.0,de,2
+Matterhorn,Matterhorn,LOC,0.0,0.0,de,2
+Gletscherabfahrten,Gletscherabfahrten,LOC,0.0,0.0,de,2
+Europas,Europas,LOC,0.0,0.0,de,1
+Dächern gerette…,Dächern gerette…,LOC,0.0,1.0,de,1
+Schnee-Skibrille Markt,Schnee-Skibrille Markt,LOC,0.0,0.0,de,1
+Levi.,Levi.,LOC,0.7,0.0,de,1
+"Schnee-Skibrille Markt 2022
+","Schnee-Skibrille Markt 2022
+",LOC,0.0,0.0,de,1
+Ostaustraliens verwüste…,Ostaustraliens verwüste…,LOC,0.7,0.0,de,1
+Wyangala-Damm,Wyangala-Damm,LOC,0.0,0.0,de,1
+Überschwemmungen,Überschwemmungen,LOC,0.0,0.0,de,1
+Tirol,Tirol,LOC,1.0,0.0,de,1
+Ski alpin: Genug Schnee,Ski alpin: Genug Schnee,LOC,0.7,0.0,de,1
+Skigebieten,Skigebieten,LOC,0.0,0.0,de,1
+Schweiz,Schweiz,LOC,0.7,0.0,de,1
+Eugowra,Eugowra,LOC,0.0,0.0,de,1
+Oberösterreich.,Oberösterreich.,LOC,0.0,0.0,de,1
+Sidney,Sidney,LOC,-0.7,0.0,de,1
+Waidhofen an der Ybbs,Waidhofen an der Ybbs,LOC,0.0,0.0,de,1
+Canberra.,Canberra.,LOC,0.0,0.0,de,1
+Forsteralm,Forsteralm,LOC,0.0,0.0,de,1
+Weltskiverband,Weltskiverband,LOC,0.0,0.0,de,1
+Markusplatz.,Markusplatz.,LOC,0.7,0.0,de,1
+Levi:,Levi:,LOC,0.7,0.0,de,1
+Deutschland.,Deutschland.,LOC,0.0,0.0,de,1
+Bergsträsser,Bergsträsser,LOC,1.0,0.0,de,1
+Deutschlands,Deutschlands,LOC,0.0,0.0,de,1
+Hessischen Bergstraße,Hessischen Bergstraße,LOC,0.7,0.0,de,1
+…,…,LOC,0.0,0.0,de,1
+Preisschock,Preisschock,LOC,0.0,0.0,de,1
+Männer,Männer,LOC,-1.0,0.0,de,1
+Weltcup-Verantwortlichen,Weltcup-Verantwortlichen,LOC,0.0,0.0,de,1
+Verbrenner-Aus kommt!,Verbrenner-Aus kommt!,LOC,0.0,0.0,de,1
+Jahres,Jahres,LOC,0.0,0.0,de,1
 Österreichs,Österreichs,LOC,0.0,0.0,de,1
-Bösartiger Meme-Hagel: Skandalprofi Brown,Bösartiger Meme-Hagel: Skandalprofi Brown,LOC,0.0,0.0,de,1
+österreichische Regierung,österreichische Regierung,LOC,0.0,0.0,de,1
+Energiespardebatten,Energiespardebatten,LOC,-1.0,0.0,de,1
+Weltcup-Winter,Weltcup-Winter,LOC,0.0,0.0,de,1
+Algarve,Algarve,LOC,0.0,0.0,de,1
+Nutzfahrzeugherstellers,Nutzfahrzeugherstellers,LOC,0.0,0.0,de,1
+Wisla,Wisla,LOC,0.0,0.0,de,1
+Keramikspur,Keramikspur,LOC,0.0,0.0,de,1
+Wasser,Wasser,LOC,0.7,0.0,de,1
+München.,München.,LOC,0.0,0.0,de,1
+Venedig,Venedig,LOC,0.0,0.0,de,1
+Markusplatz,Markusplatz,LOC,0.7,0.0,de,1
+Wintersport-Hochburgen,Wintersport-Hochburgen,LOC,0.0,0.0,de,1

@@ -1,40 +1,42 @@
 ,phrase,label,sentiment,subjectivity,language,count
-…,…,MISC,,,de,7
-"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,4
-"nan When browsing with ads:
-","nan When browsing with ads:
-",MISC,,,de,3
-Airbus A320,Airbus A320,MISC,,,de,3
-Zeit,Zeit,MISC,,,de,2
-World Weather Attribution Group,World Weather Attribution Group,MISC,,,de,2
-Tornado in Urexweiler,Tornado in Urexweiler,MISC,,,de,2
-CDU-Landtagsfraktionschef,CDU-Landtagsfraktionschef,MISC,,,de,2
-Niedersächsischen Landesforsten,Niedersächsischen Landesforsten,MISC,,,de,2
-Triste Bonussaison: Deal-Dürre: Berenberg,Triste Bonussaison: Deal-Dürre: Berenberg,MISC,,,de,2
-Opiumanbau,Opiumanbau,MISC,0.0,0.0,de,2
-Vergangenes Jahr,Vergangenes Jahr,MISC,,,de,2
-Late I…,Late I…,MISC,,,de,1
-Chaos in Spanien,Chaos in Spanien,MISC,,,de,1
-Hohe Salzgehalte,Hohe Salzgehalte,MISC,,,de,1
-"Mehr Hitzetote, die Ausbreitung von Infektionskrankheiten","Mehr Hitzetote, die Ausbreitung von Infektionskrankheiten",MISC,,,de,1
-Ein Unwetter mit Hagel,Ein Unwetter mit Hagel,MISC,,,de,1
-Vrkelo erebW )D,Vrkelo erebW )D,MISC,,,de,1
-rreaipgnM,rreaipgnM,MISC,,,de,1
-A…,A…,MISC,,,de,1
-soziale,soziale,MISC,,,de,1
-Videos,Videos,MISC,,,de,1
-"Unwettern mit heftigen Regenfällen, Hagel","Unwettern mit heftigen Regenfällen, Hagel",MISC,,,de,1
-Vogelgrippe.,Vogelgrippe.,MISC,,,de,1
-Winter.,Winter.,MISC,,,de,1
-"When browsing with ads:
-","When browsing with ads:
-",MISC,,,de,1
-"Stürme, Waldbrände, Dürre","Stürme, Waldbrände, Dürre",MISC,,,de,1
-Südwest-Wirtschaft,Südwest-Wirtschaft,MISC,,,de,1
-Not in Guatemala:,Not in Guatemala:,MISC,,,de,1
-Hamburger,Hamburger,MISC,,,de,1
-Skandalpr…,Skandalpr…,MISC,,,de,1
-Hunger:,Hunger:,MISC,,,de,1
-Warum Krieg,Warum Krieg,MISC,,,de,1
-CDU-Frak…,CDU-Frak…,MISC,,,de,1
-Das stille Sterben in Flüssen,Das stille Sterben in Flüssen,MISC,,,de,1
+…,…,MISC,1.7,0.0,de,6
+Skiurlaub in den Alpen,Skiurlaub in den Alpen,MISC,,,de,4
+Wetter-Nachrichten,Wetter-Nachrichten,MISC,,,de,4
+Industriezulieferer Schaeffler,Industriezulieferer Schaeffler,MISC,,,de,3
+Verbots-Bechluss,Verbots-Bechluss,MISC,,,de,2
+alpinen Ski-Zirkus:,alpinen Ski-Zirkus:,MISC,,,de,2
+finnischen,finnischen,MISC,,,de,2
+Tourismus: Wandern,Tourismus: Wandern,MISC,,,de,2
+Skispringen ohne Schnee,Skispringen ohne Schnee,MISC,,,de,2
+Verbrenner-Fahrverbot?,Verbrenner-Fahrverbot?,MISC,,,de,2
+alpine Ski-Weltcup,alpine Ski-Weltcup,MISC,,,de,2
+FIS-Präsidenten.,FIS-Präsidenten.,MISC,,,de,2
+Vorfreude,Vorfreude,MISC,,,de,1
+Gletscher-Express,Gletscher-Express,MISC,,,de,1
+Alpen-Überquerung,Alpen-Überquerung,MISC,,,de,1
+australischen,australischen,MISC,,,de,1
+Tourismus in Bayern:,Tourismus in Bayern:,MISC,,,de,1
+vier Jahre her,vier Jahre her,MISC,,,de,1
+Deutschen,Deutschen,MISC,,,de,1
+australische,australische,MISC,,,de,1
+niederösterreichischen,niederösterreichischen,MISC,,,de,1
+Gletscherskigebiete,Gletscherskigebiete,MISC,,,de,1
+Auftrag des Sportbekleidungshersteller…,Auftrag des Sportbekleidungshersteller…,MISC,,,de,1
+KOMMENTAR,KOMMENTAR,MISC,,,de,1
+Fußball-WM,Fußball-WM,MISC,,,de,1
+Der Auto-,Der Auto-,MISC,,,de,1
+ePaper,ePaper,MISC,,,de,1
+Schanzentisch,Schanzentisch,MISC,,,de,1
+Weltcup-Winter.,Weltcup-Winter.,MISC,,,de,1
+FIS-Weltcup.,FIS-Weltcup.,MISC,,,de,1
+Der Schneefall in,Der Schneefall in,MISC,,,de,1
+Zürs: OK-Team,Zürs: OK-Team,MISC,,,de,1
+Weltcup,Weltcup,MISC,,,de,1
+Ski alpin: Der Winter,Ski alpin: Der Winter,MISC,,,de,1
+… [,… [,MISC,,,de,1
+alpinen Weltcup-Rennen,alpinen Weltcup-Rennen,MISC,,,de,1
+Flop.,Flop.,MISC,,,de,1
+Zermatt: Abfahrten der Männer,Zermatt: Abfahrten der Männer,MISC,,,de,1
+Ukraine-Krieges.,Ukraine-Krieges.,MISC,,,de,1
+Skipass-Preise,Skipass-Preise,MISC,,,de,1
+deutschen,deutschen,MISC,,,de,1

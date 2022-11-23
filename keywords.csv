@@ -1,24 +1,23 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vergaser',de,Auto,#4287f5,#59B995,1,1.0
-'Verbrenner',de,Auto,#4287f5,#59B995,1,1.0
-'Historisch',de,Auto,#4287f5,#59B995,1,1.0
-'Wohnen',de,Wohnen,#9e3215,#599CB9,1,1.0
-'Kosten',de,Wohnen,#9e3215,#599CB9,1,1.0
-'Fläche',de,Wohnen,#9e3215,#599CB9,1,1.0
+'Auto Vergaser',de,Auto,#4287f5,#59B995,1,1.0
+'Auto Verbrenner',de,Auto,#4287f5,#59B995,1,1.0
+'Auto Historisch',de,Auto,#4287f5,#59B995,1,1.0
+'Wohnen Kosten',de,Wohnen,#9e3215,#599CB9,1,1.0
+'Wohnen Fläche',de,Wohnen,#9e3215,#599CB9,1,1.0
 'Wohnen Kosten Fläche',de,Wohnen,#9e3215,#599CB9,1,1.0
-'Winter',de,Ski,#4287f5,#D0E9F4,1,1.0
-'Feldberg',de,Ski,#4287f5,#D0E9F4,1,1.0
-'Schnee',de,Ski,#4287f5,#D0E9F4,1,1.0
-'Tourismus',de,Ski,#4287f5,#D0E9F4,1,1.0
-'Niederschlag',de,Hochwasser,#4287f5,#07B0FA,1,1.0
-'Regen',de,Hochwasser,#4287f5,#07B0FA,1,1.0
-'Schneeschmelze',de,Hochwasser,#4287f5,#07B0FA,1,1.0
-'Wasser',de,Hochwasser,#4287f5,#07B0FA,1,1.0
-'Extremereignisse',de,Hochwasser,#4287f5,#07B0FA,1,1.0
-'Hitze',de,Weinlese,#9e3215,#69B959,1,1.0
-'Starkregen',de,Weinlese,#9e3215,#69B959,1,1.0
-'Frost',de,Weinlese,#9e3215,#69B959,1,1.0
-'Ernte',de,Weinlese,#9e3215,#69B959,1,1.0
-'Herbst',de,Weinlese,#9e3215,#69B959,1,1.0
-'Dürre',de,Weinlese,#9e3215,#69B959,3,0.9322257872727272
-'Hagel',de,Weinlese,#9e3215,#69B959,2,0.9185871586363636
+'Ski Winter',de,Ski,#4287f5,#D0E9F4,1,1.0
+'Ski Feldberg',de,Ski,#4287f5,#D0E9F4,1,1.0
+'Ski Schnee',de,Ski,#4287f5,#D0E9F4,1,1.0
+'Ski Tourismus',de,Ski,#4287f5,#D0E9F4,1,1.0
+'Hochwasser Niederschlag',de,Hochwasser,#4287f5,#07B0FA,1,1.0
+'Hochwasser Regen',de,Hochwasser,#4287f5,#07B0FA,1,1.0
+'Hochwasser Schneeschmelze',de,Hochwasser,#4287f5,#07B0FA,1,1.0
+'Hochwasser Wasser',de,Hochwasser,#4287f5,#07B0FA,1,1.0
+'Hochwasser Extremereignisse',de,Hochwasser,#4287f5,#07B0FA,1,1.0
+'Weinlese Hitze',de,Weinlese,#9e3215,#69B959,1,1.0
+'Weinlese Starkregen',de,Weinlese,#9e3215,#69B959,1,1.0
+'Weinlese Frost',de,Weinlese,#9e3215,#69B959,1,1.0
+'Weinlese Ernte',de,Weinlese,#9e3215,#69B959,1,1.0
+'Weinlese Herbst',de,Weinlese,#9e3215,#69B959,1,1.0
+'Weinlese Dürre',de,Weinlese,#9e3215,#69B959,3,0.9322257872727272
+'Weinlese Hagel',de,Weinlese,#9e3215,#69B959,2,0.9185871586363636

@@ -4,12 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auto Verbrenner',de,Auto,#ee3725,#ee3725,2,0.8822263272727272
 'Hochwasser Wasser',de,Hochwasser,#2247f5,#3237f5,2,0.8685871586363636
 'Wohnen Fläche',de,Wohnen,#2eb215,#3eb205,2,0.8594963395454546
-'Wohnen Kosten',de,Wohnen,#2eb215,#3ec225,2,0.85495288
 'Wohnen Kosten Fläche',de,Wohnen,#2eb215,#2eb215,2,0.854950495
 'Auto Historisch',de,Auto,#ee3725,#fe4725,2,0.8534503449999999
 'Auto Vergaser',de,Auto,#ee3725,#fe2735,1,0.85060006
-'Hochwasser Niederschlag',de,Hochwasser,#2247f5,#2247f5,1,0.850450045
 'Weinlese Herbst',de,Weinlese,#9e3215,#69b959,1,0.850450045
+'Hochwasser Niederschlag',de,Hochwasser,#2247f5,#2247f5,1,0.850450045
 'Hochwasser Extremereignisse',de,Hochwasser,#2247f5,#3247e5,1,0.85030003
 'Ski Feldberg',de,Ski,#4287f5,#d0e9f4,1,0.850150015
 'Weinlese Frost',de,Weinlese,#9e3215,#69b959,1,0.85
@@ -19,5 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese Ernte',de,Weinlese,#9e3215,#69b959,1,0.7658325832499999
 'Ski Winter',de,Ski,#4287f5,#d0e9f4,3,0.7627969266363636
 'Ski Tourismus',de,Ski,#4287f5,#d0e9f4,1,0.7537068170714286
+'Wohnen Kosten',de,Wohnen,#2eb215,#3ec225,3,0.7362082825454546
 'Weinlese Starkregen',de,Weinlese,#9e3215,#69b959,1,0.7224999999999999
 'Hochwasser Schneeschmelze',de,Hochwasser,#2247f5,#1247f5,1,0.7224999999999999

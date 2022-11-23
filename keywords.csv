@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese Hitze',de,Weinlese,#9e3215,#69b959,1,1.0
-'Weinlese Herbst',de,Weinlese,#9e3215,#69b959,1,1.0
 'Weinlese Frost',de,Weinlese,#9e3215,#69b959,1,1.0
-'Wohnen Kosten Fläche',de,Wohnen,#2eb215,#2eb215,1,1.0
+'Weinlese Herbst',de,Weinlese,#9e3215,#69b959,1,1.0
 'Weinlese Dürre',de,Weinlese,#9e3215,#69b959,3,0.9322257872727272
 'Weinlese Hagel',de,Weinlese,#9e3215,#69b959,2,0.9185871586363636
 'Hochwasser Regen',de,Hochwasser,#2247f5,#2237e5,2,0.88485036
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ski Winter',de,Ski,#4287f5,#d0e9f4,2,0.8594971345454545
 'Wohnen Fläche',de,Wohnen,#2eb215,#3eb205,2,0.8594963395454546
 'Wohnen Kosten',de,Wohnen,#2eb215,#3ec225,2,0.85495288
+'Wohnen Kosten Fläche',de,Wohnen,#2eb215,#2eb215,2,0.854950495
 'Auto Historisch',de,Auto,#ee3725,#fe4725,2,0.8534503449999999
 'Auto Vergaser',de,Auto,#ee3725,#fe2735,1,0.85060006
 'Hochwasser Niederschlag',de,Hochwasser,#2247f5,#2247f5,1,0.850450045

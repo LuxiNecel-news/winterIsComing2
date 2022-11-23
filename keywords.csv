@@ -10,10 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Feldberg',de,Ski,#4287f5,#D0E9F4,1,1
 'Schnee',de,Ski,#4287f5,#D0E9F4,1,1
 'Tourismus',de,Ski,#4287f5,#D0E9F4,1,1
-'Historisch',de,Hochwasser,#4287f5,#07B0FA,1,1
-'Historisch',de,Hochwasser,#4287f5,#07B0FA,1,1
-'Historisch',de,Hochwasser,#4287f5,#07B0FA,1,1
-'Historisch',de,Hochwasser,#4287f5,#07B0FA,1,1
+'Niederschlag',de,Hochwasser,#4287f5,#07B0FA,1,1
+'Regen',de,Hochwasser,#4287f5,#07B0FA,1,1
+'Schneeschmelze',de,Hochwasser,#4287f5,#07B0FA,1,1
+'Wasser',de,Hochwasser,#4287f5,#07B0FA,1,1
+'Extremereignisse',de,Hochwasser,#4287f5,#07B0FA,1,1
 'Hitze',de,Weinlese,#9e3215,#69B959,1,1
 'Dürre',de,Weinlese,#9e3215,#69B959,1,1
 'Starkregen',de,Weinlese,#9e3215,#69B959,1,1

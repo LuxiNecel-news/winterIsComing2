@@ -1,15 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ski Feldberg',de,Ski,#4287f5,#d0e9f4,1,1.0
-'Weinlese Herbst',de,Weinlese,#9e3215,#69b959,1,1.0
+'Hochwasser Wasser',de,Hochwasser,#4287f5,#07b0fa,1,1.0
+'Weinlese Starkregen',de,Weinlese,#9e3215,#69b959,1,1.0
 'Auto Verbrenner',de,Auto,#4287f5,#599cb9,1,1.0
 'Wohnen Fläche',de,Wohnen,#9e3215,#599cb9,1,1.0
 'Hochwasser Niederschlag',de,Hochwasser,#4287f5,#07b0fa,1,1.0
 'Wohnen Kosten Fläche',de,Wohnen,#9e3215,#599cb9,1,1.0
 'Wohnen Kosten',de,Wohnen,#9e3215,#599cb9,1,1.0
 'Weinlese Hitze',de,Weinlese,#9e3215,#69b959,1,1.0
-'Hochwasser Wasser',de,Hochwasser,#4287f5,#07b0fa,1,1.0
+'Weinlese Herbst',de,Weinlese,#9e3215,#69b959,1,1.0
 'Weinlese Frost',de,Weinlese,#9e3215,#69b959,1,1.0
-'Weinlese Starkregen',de,Weinlese,#9e3215,#69b959,1,1.0
 'Weinlese Dürre',de,Weinlese,#9e3215,#69b959,3,0.9322257872727272
 'Weinlese Hagel',de,Weinlese,#9e3215,#69b959,2,0.9185871586363636
 'Hochwasser Regen',de,Hochwasser,#4287f5,#07b0fa,2,0.88485036
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auto Historisch',de,Auto,#4287f5,#599cb9,2,0.8534503449999999
 'Auto Vergaser',de,Auto,#4287f5,#599cb9,1,0.85060006
 'Hochwasser Extremereignisse',de,Hochwasser,#4287f5,#07b0fa,1,0.85030003
+'Ski Feldberg',de,Ski,#4287f5,#d0e9f4,1,0.850150015
 'Hochwasser Schneeschmelze',de,Hochwasser,#4287f5,#07b0fa,1,0.85
 'Ski Schnee',de,Ski,#4287f5,#d0e9f4,3,0.8050690756590909
 'Weinlese Ernte',de,Weinlese,#9e3215,#69b959,1,0.7658325832499999

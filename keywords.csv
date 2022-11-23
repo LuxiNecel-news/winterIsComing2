@@ -16,9 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasser',de,Hochwasser,#4287f5,#07B0FA,1,1.0
 'Extremereignisse',de,Hochwasser,#4287f5,#07B0FA,1,1.0
 'Hitze',de,Weinlese,#9e3215,#69B959,1,1.0
-'Dürre',de,Weinlese,#9e3215,#69B959,1,1.0
 'Starkregen',de,Weinlese,#9e3215,#69B959,1,1.0
 'Frost',de,Weinlese,#9e3215,#69B959,1,1.0
 'Ernte',de,Weinlese,#9e3215,#69B959,1,1.0
 'Herbst',de,Weinlese,#9e3215,#69B959,1,1.0
+'Dürre',de,Weinlese,#9e3215,#69B959,3,0.9322257872727272
 'Hagel',de,Weinlese,#9e3215,#69B959,2,0.9185871586363636

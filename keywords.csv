@@ -1,16 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auto Vergaser',de,Auto,#4287f5,#599cb9,1,1.0
-'Hochwasser Schneeschmelze',de,Hochwasser,#4287f5,#07b0fa,1,1.0
+'Hochwasser Regen',de,Hochwasser,#4287f5,#07b0fa,1,1.0
 'Auto Historisch',de,Auto,#4287f5,#599cb9,1,1.0
 'Wohnen Kosten',de,Wohnen,#9e3215,#599cb9,1,1.0
 'Wohnen Fläche',de,Wohnen,#9e3215,#599cb9,1,1.0
 'Wohnen Kosten Fläche',de,Wohnen,#9e3215,#599cb9,1,1.0
 'Ski Winter',de,Ski,#4287f5,#d0e9f4,1,1.0
 'Ski Feldberg',de,Ski,#4287f5,#d0e9f4,1,1.0
-'Ski Tourismus',de,Ski,#4287f5,#d0e9f4,1,1.0
-'Hochwasser Niederschlag',de,Hochwasser,#4287f5,#07b0fa,1,1.0
 'Auto Verbrenner',de,Auto,#4287f5,#599cb9,1,1.0
-'Hochwasser Regen',de,Hochwasser,#4287f5,#07b0fa,1,1.0
+'Hochwasser Niederschlag',de,Hochwasser,#4287f5,#07b0fa,1,1.0
+'Hochwasser Schneeschmelze',de,Hochwasser,#4287f5,#07b0fa,1,1.0
 'Hochwasser Wasser',de,Hochwasser,#4287f5,#07b0fa,1,1.0
 'Hochwasser Extremereignisse',de,Hochwasser,#4287f5,#07b0fa,1,1.0
 'Weinlese Hitze',de,Weinlese,#9e3215,#69b959,1,1.0
@@ -21,3 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese Dürre',de,Weinlese,#9e3215,#69b959,3,0.9322257872727272
 'Weinlese Hagel',de,Weinlese,#9e3215,#69b959,2,0.9185871586363636
 'Weinlese Ernte',de,Weinlese,#9e3215,#69b959,1,0.9004500449999999
+'Ski Tourismus',de,Ski,#4287f5,#d0e9f4,1,0.8842430671428572

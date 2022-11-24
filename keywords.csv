@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese Hitze',de,Weinlese,#9e3215,#69b959,1,1.0
-'Wohnen',de,Wohnen,#2eb215,#3eb205,1,1.0
 'Auto',de,Auto,#ee3725,#ee3725,1,1.0
+'Wohnen',de,Wohnen,#2eb215,#3eb205,1,1.0
 'Weinlese',de,Weinlese,#9e3215,#69b959,1,0.91150015
 'Ski',de,Ski,#4287f5,#d0e9f4,2,0.9095007195454544
 'Hochwasser',de,Hochwasser,#2247f5,#2237e5,2,0.9004071254545455
@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Auto Vergaser',de,Auto,#ee3725,#fe2735,1,0.85060006
 'Hochwasser Niederschlag',de,Hochwasser,#2247f5,#2247f5,1,0.850450045
 'Weinlese Herbst',de,Weinlese,#9e3215,#69b959,1,0.850450045
-'Hochwasser Extremereignisse',de,Hochwasser,#2247f5,#3247e5,1,0.85030003
 'Ski Feldberg',de,Ski,#4287f5,#d0e9f4,1,0.850150015
 'Weinlese Frost',de,Weinlese,#9e3215,#69b959,1,0.85
 'Ski Schnee',de,Ski,#4287f5,#d0e9f4,3,0.8050690756590909
+'Hochwasser Extremereignisse',de,Hochwasser,#2247f5,#3247e5,2,0.7980550554999999
 'Weinlese Dürre',de,Weinlese,#9e3215,#69b959,2,0.7923919191818181
 'Weinlese Hagel',de,Weinlese,#9e3215,#69b959,1,0.7807990848409091
 'Ski Winter',de,Ski,#4287f5,#d0e9f4,3,0.7627969266363636

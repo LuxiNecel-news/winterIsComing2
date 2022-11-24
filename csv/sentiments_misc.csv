@@ -1,42 +1,133 @@
 ,phrase,label,sentiment,subjectivity,language,count
-…,…,MISC,1.7,0.0,de,6
-Skiurlaub in den Alpen,Skiurlaub in den Alpen,MISC,,,de,4
+…,…,MISC,2.4,0.0,de,17
+deutsche,deutsche,MISC,,,de,8
+"nan When browsing with ads:
+","nan When browsing with ads:
+",MISC,,,de,5
+"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,5
 Wetter-Nachrichten,Wetter-Nachrichten,MISC,,,de,4
-Industriezulieferer Schaeffler,Industriezulieferer Schaeffler,MISC,,,de,3
-Verbots-Bechluss,Verbots-Bechluss,MISC,,,de,2
+Skiurlaub in den Alpen,Skiurlaub in den Alpen,MISC,,,de,4
+Industriezulieferer Schaeffler,Industriezulieferer Schaeffler,MISC,,,de,4
+Weltcup-Rennen,Weltcup-Rennen,MISC,,,de,3
+Weltcup,Weltcup,MISC,,,de,3
+australischen,australischen,MISC,,,de,3
+Verbrenner-Fahrverbot?,Verbrenner-Fahrverbot?,MISC,,,de,2
+Vierschanzentournee,Vierschanzentournee,MISC,,,de,2
+Skispringen ohne Schnee,Skispringen ohne Schnee,MISC,,,de,2
+Eurosport,Eurosport,MISC,,,de,2
+ePaper,ePaper,MISC,,,de,2
+DER SPIEGEL.,DER SPIEGEL.,MISC,,,de,2
+russische,russische,MISC,,,de,2
+europäische,europäische,MISC,,,de,2
 alpinen Ski-Zirkus:,alpinen Ski-Zirkus:,MISC,,,de,2
 finnischen,finnischen,MISC,,,de,2
+deutschen,deutschen,MISC,,,de,2
+Millionen,Millionen,MISC,,,de,2
+"NACHRICHTEN
+","NACHRICHTEN
+",MISC,,,de,2
+Ski nordisch:,Ski nordisch:,MISC,,,de,2
+Winterspielen,Winterspielen,MISC,,,de,2
+Verbots-Bechluss,Verbots-Bechluss,MISC,,,de,2
+Rekordweltmeister,Rekordweltmeister,MISC,,,de,2
 Tourismus: Wandern,Tourismus: Wandern,MISC,,,de,2
-Skispringen ohne Schnee,Skispringen ohne Schnee,MISC,,,de,2
-Verbrenner-Fahrverbot?,Verbrenner-Fahrverbot?,MISC,,,de,2
-alpine Ski-Weltcup,alpine Ski-Weltcup,MISC,,,de,2
+Dieselpreis,Dieselpreis,MISC,,,de,2
 FIS-Präsidenten.,FIS-Präsidenten.,MISC,,,de,2
-Vorfreude,Vorfreude,MISC,,,de,1
-Gletscher-Express,Gletscher-Express,MISC,,,de,1
-Alpen-Überquerung,Alpen-Überquerung,MISC,,,de,1
-australischen,australischen,MISC,,,de,1
-Tourismus in Bayern:,Tourismus in Bayern:,MISC,,,de,1
-vier Jahre her,vier Jahre her,MISC,,,de,1
-Deutschen,Deutschen,MISC,,,de,1
-australische,australische,MISC,,,de,1
+alpine Ski-Weltcup,alpine Ski-Weltcup,MISC,,,de,2
+Diesen Winter,Diesen Winter,MISC,,,de,2
+Gute Erträge und tolle Qualitäten,Gute Erträge und tolle Qualitäten,MISC,,,de,1
+"Konsumenten
+","Konsumenten
+",MISC,,,de,1
 niederösterreichischen,niederösterreichischen,MISC,,,de,1
-Gletscherskigebiete,Gletscherskigebiete,MISC,,,de,1
-Auftrag des Sportbekleidungshersteller…,Auftrag des Sportbekleidungshersteller…,MISC,,,de,1
+Abgastechnik-Experte…,Abgastechnik-Experte…,MISC,,,de,1
+Abgastechnik-Experte,Abgastechnik-Experte,MISC,,,de,1
+Gas-Krise: Wie ich,Gas-Krise: Wie ich,MISC,,,de,1
+Abgas-Experten,Abgas-Experten,MISC,,,de,1
+Dieses Auto zerstreut all meine Elektro-Bedenken“,Dieses Auto zerstreut all meine Elektro-Bedenken“,MISC,,,de,1
+bayerische,bayerische,MISC,,,de,1
+Der Ausbau des,Der Ausbau des,MISC,,,de,1
+russischem,russischem,MISC,,,de,1
+australische,australische,MISC,,,de,1
+Levi: Der verflixte zweite Duchgang,Levi: Der verflixte zweite Duchgang,MISC,,,de,1
+LNG-Terminal,LNG-Terminal,MISC,,,de,1
+vier Jahre her,vier Jahre her,MISC,,,de,1
 KOMMENTAR,KOMMENTAR,MISC,,,de,1
-Fußball-WM,Fußball-WM,MISC,,,de,1
-Der Auto-,Der Auto-,MISC,,,de,1
-ePaper,ePaper,MISC,,,de,1
-Schanzentisch,Schanzentisch,MISC,,,de,1
-Weltcup-Winter.,Weltcup-Winter.,MISC,,,de,1
-FIS-Weltcup.,FIS-Weltcup.,MISC,,,de,1
-Der Schneefall in,Der Schneefall in,MISC,,,de,1
-Zürs: OK-Team,Zürs: OK-Team,MISC,,,de,1
-Weltcup,Weltcup,MISC,,,de,1
-Ski alpin: Der Winter,Ski alpin: Der Winter,MISC,,,de,1
-… [,… [,MISC,,,de,1
-alpinen Weltcup-Rennen,alpinen Weltcup-Rennen,MISC,,,de,1
-Flop.,Flop.,MISC,,,de,1
-Zermatt: Abfahrten der Männer,Zermatt: Abfahrten der Männer,MISC,,,de,1
-Ukraine-Krieges.,Ukraine-Krieges.,MISC,,,de,1
+Alpen-Überquerung,Alpen-Überquerung,MISC,,,de,1
+Gletscher-Express,Gletscher-Express,MISC,,,de,1
+Ski-Gebiete,Ski-Gebiete,MISC,,,de,1
+Ahrtal-Katastrophe.,Ahrtal-Katastrophe.,MISC,,,de,1
+Shiffrin,Shiffrin,MISC,,,de,1
+Steigende …,Steigende …,MISC,,,de,1
 Skipass-Preise,Skipass-Preise,MISC,,,de,1
-deutschen,deutschen,MISC,,,de,1
+MOSE,MOSE,MISC,,,de,1
+Böses Blut,Böses Blut,MISC,,,de,1
+E…,E…,MISC,,,de,1
+Berliner,Berliner,MISC,,,de,1
+Auto1,Auto1,MISC,,,de,1
+Online-Gebrauchtwagenhändler: Auto1,Online-Gebrauchtwagenhändler: Auto1,MISC,,,de,1
+Ski-Urlaub über die Feiertage,Ski-Urlaub über die Feiertage,MISC,,,de,1
+norditalienische,norditalienische,MISC,,,de,1
+Unwetter in Italien:,Unwetter in Italien:,MISC,,,de,1
+alpinen Weltspitze,alpinen Weltspitze,MISC,,,de,1
+Tourismus in Bayern:,Tourismus in Bayern:,MISC,,,de,1
+Ski alpin: Lena Dürr,Ski alpin: Lena Dürr,MISC,,,de,1
+Deutschen,Deutschen,MISC,,,de,1
+Vorfreude,Vorfreude,MISC,,,de,1
+Auftrag des Sportbekleidungshersteller…,Auftrag des Sportbekleidungshersteller…,MISC,,,de,1
+Gletscherskigebiete,Gletscherskigebiete,MISC,,,de,1
+Gänsehaut und Glücksgefühle,Gänsehaut und Glücksgefühle,MISC,,,de,1
+Die Zeit fallen…,Die Zeit fallen…,MISC,,,de,1
+Levi: Der verflixte zweite Lauf,Levi: Der verflixte zweite Lauf,MISC,,,de,1
+Slalom-Weltcups,Slalom-Weltcups,MISC,,,de,1
+Slalom-Sieg,Slalom-Sieg,MISC,,,de,1
+Ski alpin: Der Winter,Ski alpin: Der Winter,MISC,,,de,1
+Unbekannter Mann greift Mädchen,Unbekannter Mann greift Mädchen,MISC,,,de,1
+Zeit,Zeit,MISC,,,de,1
+Pr…,Pr…,MISC,,,de,1
+Europa.,Europa.,MISC,,,de,1
+ADAC-Daten: Das teuerste Tankjahr,ADAC-Daten: Das teuerste Tankjahr,MISC,,,de,1
+BMW M3 CSL E46,BMW M3 CSL E46,MISC,,,de,1
+Bavarian Legends Collection.,Bavarian Legends Collection.,MISC,,,de,1
+M3,M3,MISC,,,de,1
+CSL,CSL,MISC,,,de,1
+alpinen Weltcup-Rennen,alpinen Weltcup-Rennen,MISC,,,de,1
+Was auf Matten,Was auf Matten,MISC,,,de,1
+FIS-Weltcup.,FIS-Weltcup.,MISC,,,de,1
+… [,… [,MISC,,,de,1
+Zürs: OK-Team,Zürs: OK-Team,MISC,,,de,1
+Quartalszahlen,Quartalszahlen,MISC,,,de,1
+Aldi,Aldi,MISC,,,de,1
+Proteste ver…,Proteste ver…,MISC,,,de,1
+Fe…,Fe…,MISC,,,de,1
+Zwei junge Frauen,Zwei junge Frauen,MISC,,,de,1
+Klimaproteste,Klimaproteste,MISC,,,de,1
+Der Schneefall in,Der Schneefall in,MISC,,,de,1
+europäischen,europäischen,MISC,,,de,1
+"Formel-1-Motoren,","Formel-1-Motoren,",MISC,,,de,1
+Raufen.,Raufen.,MISC,,,de,1
+Weltcup-Winter.,Weltcup-Winter.,MISC,,,de,1
+Fußball-WM,Fußball-WM,MISC,,,de,1
+Schanzentisch,Schanzentisch,MISC,,,de,1
+Qualcomm.,Qualcomm.,MISC,,,de,1
+St…,St…,MISC,,,de,1
+Ukraine-Krieges.,Ukraine-Krieges.,MISC,,,de,1
+Russen.,Russen.,MISC,,,de,1
+Ukraine-Krieg,Ukraine-Krieg,MISC,0.0,0.0,de,1
+SixtDer,SixtDer,MISC,,,de,1
+Autovermieter: Mietwagenboom,Autovermieter: Mietwagenboom,MISC,,,de,1
+Informatio…,Informatio…,MISC,,,de,1
+Skript,Skript,MISC,,,de,1
+"Renault, Google)","Renault, Google)",MISC,,,de,1
+Google,Google,MISC,,,de,1
+Flop.,Flop.,MISC,,,de,1
+Geely,Geely,MISC,,,de,1
+Super 3,Super 3,MISC,,,de,1
+ukrainischen,ukrainischen,MISC,,,de,1
+Mehr im Liveticker.,Mehr im Liveticker.,MISC,,,de,1
+Britische,Britische,MISC,,,de,1
+Der Auto-,Der Auto-,MISC,,,de,1
+"Stew, Pie","Stew, Pie",MISC,,,de,1
+Zermatt: Abfahrten der Männer,Zermatt: Abfahrten der Männer,MISC,,,de,1
+Ihr Auto.,Ihr Auto.,MISC,,,de,1
+britischer,britischer,MISC,,,de,1

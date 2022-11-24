@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese Hitze',de,Weinlese,#9e3215,#69b959,1,1.0
-'Wohnen',de,Wohnen,#2eb215,#3eb205,1,1.0
-'Ski',de,Ski,#4287f5,#d0e9f4,1,1.0
 'Hochwasser',de,Hochwasser,#2247f5,#2237e5,1,1.0
 'Auto',de,Auto,#ee3725,#ee3725,1,1.0
+'Wohnen',de,Wohnen,#2eb215,#3eb205,1,1.0
+'Ski',de,Ski,#4287f5,#d0e9f4,1,1.0
 'Weinlese',de,Weinlese,#9e3215,#69b959,1,0.91150015
 'Hochwasser Regen',de,Hochwasser,#2247f5,#2237e5,2,0.88485036
 'Auto Verbrenner',de,Auto,#ee3725,#ee3725,2,0.8822263272727272
@@ -25,4 +25,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wohnen Kosten',de,Wohnen,#2eb215,#3ec225,3,0.7362082825454546
 'Weinlese Starkregen',de,Weinlese,#9e3215,#69b959,1,0.7224999999999999
 'Hochwasser Schneeschmelze',de,Hochwasser,#2247f5,#1247f5,1,0.7224999999999999
-'Weinlese Ernte',de,Weinlese,#9e3215,#69b959,1,0.6514077407625
+'Weinlese Ernte',de,Weinlese,#9e3215,#69b959,1,0.5541466246481249

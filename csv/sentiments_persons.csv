@@ -1,77 +1,35 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Lena Dürr,Lena Dürr,PER,-0.32458333333333333,0.0,de,8
-…,…,PER,0.0,0.16666666666666666,de,6
 Thomas Dreßen,Thomas Dreßen,PER,0.0,0.0,de,5
 Andreas Wellinger,Andreas Wellinger,PER,-0.75,0.0,de,4
-Schnee-Skibrille Markt,Schnee-Skibrille Markt,PER,0.0,0.0,de,3
-Liftbetreiber,Liftbetreiber,PER,0.0,0.0,de,3
-Freier,Freier,PER,0.6999999999999998,0.0,de,3
-Flutschutztore,Flutschutztore,PER,0.0,0.0,de,3
 Vinzenz Geiger,Vinzenz Geiger,PER,0.0,0.0,de,3
+Stefan Kraft,Stefan Kraft,PER,0.0,0.0,de,3
 Hans-Jürgen Moritz,Hans-Jürgen Moritz,PER,0.0,0.0,de,3
+Schnee-Skibrille Markt,Schnee-Skibrille Markt,PER,0.0,0.0,de,3
+Mikaela Shiffrin,Mikaela Shiffrin,PER,0.07500000000000001,0.0,de,2
+Cornelia Weigand,Cornelia Weigand,PER,0.0,0.0,de,2
+Ex-Ski-Star Maria Höfl-Riesch,Ex-Ski-Star Maria Höfl-Riesch,PER,0.0,0.0,de,2
+Klaus Rosenfeld,Klaus Rosenfeld,PER,0.35,0.0,de,2
 Christian Lindner,Christian Lindner,PER,-0.85,0.0,de,2
 Markus Duesmann,Markus Duesmann,PER,0.35,0.0,de,2
-Elektroautos,Elektroautos,PER,1.0,0.0,de,2
-Olympia-Medaillengewinner,Olympia-Medaillengewinner,PER,0.0,0.0,de,2
-Stefan Kraft,Stefan Kraft,PER,0.0,0.0,de,2
-Wisla,Wisla,PER,0.0,0.0,de,2
-Levi:,Levi:,PER,0.575,0.0,de,2
-Cornelia Weigand,Cornelia Weigand,PER,0.0,0.0,de,2
-Bidirektionales,Bidirektionales,PER,0.7,0.0,de,2
-Klaus Rosenfeld,Klaus Rosenfeld,PER,0.35,0.0,de,2
 Ursula von der Leyen,Ursula von der Leyen,PER,0.0,0.0,de,2
-Ex-Ski-Star Maria Höfl-Riesch,Ex-Ski-Star Maria Höfl-Riesch,PER,0.0,0.0,de,2
-Opel,Opel,PER,0.0,0.0,de,2
-fatales,fatales,PER,-1.0,0.0,de,1
-Verbrenner-Aus,Verbrenner-Aus,PER,-1.0,0.0,de,1
-Betriebsverlust,Betriebsverlust,PER,0.0,0.0,de,1
-Gian …,Gian …,PER,0.0,0.0,de,1
-Petra V…,Petra V…,PER,0.0,0.0,de,1
-Olaf Lies,Olaf Lies,PER,0.0,0.0,de,1
-Will,Will,PER,0.0,0.0,de,1
-Floria Huettl,Floria Huettl,PER,0.0,0.0,de,1
-Steigende,Steigende,PER,0.0,1.0,de,1
-Florian Huettl,Florian Huettl,PER,0.0,0.0,de,1
-Huettl,Huettl,PER,0.0,0.0,de,1
-"Thomas Koch,","Thomas Koch,",PER,1.0,0.0,de,1
-Corona.,Corona.,PER,0.0,1.0,de,1
-Mikaela Shiffrin.,Mikaela Shiffrin.,PER,0.0,0.0,de,1
-Andrea Filser,Andrea Filser,PER,0.0,0.0,de,1
-Mikaela Shiffrin,Mikaela Shiffrin,PER,0.15000000000000002,0.0,de,1
-Wendy Holdener,Wendy Holdener,PER,1.0,0.0,de,1
-Olympia,Olympia,PER,0.0,0.0,de,1
-Mikalea Shiffrin,Mikalea Shiffrin,PER,0.0,0.0,de,1
-Wolfgang Maier,Wolfgang Maier,PER,0.43333333333333335,0.0,de,1
-Spontaner,Spontaner,PER,0.0,0.0,de,1
-Auto-1-Chef Bertermann,Auto-1-Chef Bertermann,PER,0.0,0.0,de,1
-Anton Hofreiter,Anton Hofreiter,PER,-0.7,0.0,de,1
-Kooperiert,Kooperiert,PER,0.0,0.0,de,1
-Schnee-Star Maria Höfl-Riesch,Schnee-Star Maria Höfl-Riesch,PER,0.0,0.0,de,1
-Bahn,Bahn,PER,-0.7,0.0,de,1
-Natascha Kohnen,Natascha Kohnen,PER,-0.7,0.0,de,1
-Eva Macht,Eva Macht,PER,0.2333333333333333,0.0,de,1
-Ina Held.</em,Ina Held.</em,PER,0.2333333333333333,0.0,de,1
-E-Autos,E-Autos,PER,0.7,0.0,de,1
-Jürgen Seitz.</em,Jürgen Seitz.</em,PER,0.7,0.0,de,1
-Putin,Putin,PER,0.0,0.0,de,1
-Morgan,Morgan,PER,-1.0,0.0,de,1
-Analyse,Analyse,PER,0.0,0.0,de,1
-Scholz,Scholz,PER,0.0,0.0,de,1
-Macron,Macron,PER,0.0,0.0,de,1
-Markus Duesmann: Audi-Chef,Markus Duesmann: Audi-Chef,PER,1.0,0.0,de,1
-Angesichts Ukrainekrieg,Angesichts Ukrainekrieg,PER,0.0,0.0,de,1
-Audi-Chef,Audi-Chef,PER,0.0,0.0,de,1
-Automanager,Automanager,PER,0.7,0.0,de,1
-Ola Källenius,Ola Källenius,PER,0.0,1.0,de,1
-Winterurlaub,Winterurlaub,PER,0.0,0.0,de,1
-Klimaaktivisten,Klimaaktivisten,PER,0.0,0.0,de,1
-Migros-Sonntagsverkauf,Migros-Sonntagsverkauf,PER,0.0,0.0,de,1
-Skisprung-Saisonstart: Knie,Skisprung-Saisonstart: Knie,PER,1.0,0.0,de,1
-Wellinger,Wellinger,PER,1.0,0.0,de,1
-Alga ents…,Alga ents…,PER,0.0,0.0,de,1
-Karl Geiger&nbsp;(29),Karl Geiger&nbsp;(29),PER,0.7,0.0,de,1
 Karl Geiger (29,Karl Geiger (29,PER,0.7,0.0,de,1
-Stefan Kraft:,Stefan Kraft:,PER,0.0,0.0,de,1
-Florian Hahn,Florian Hahn,PER,-0.7,0.0,de,1
+Thomas Koch,Thomas Koch,PER,1.0,0.0,de,1
+Auto-1-Chef Bertermann,Auto-1-Chef Bertermann,PER,0.0,0.0,de,1
+Natascha Kohnen,Natascha Kohnen,PER,-0.7,0.0,de,1
+Wolfgang Maier,Wolfgang Maier,PER,0.43333333333333335,0.0,de,1
+Mikalea Shiffrin,Mikalea Shiffrin,PER,0.0,0.0,de,1
+Wendy Holdener,Wendy Holdener,PER,1.0,0.0,de,1
+Andrea Filser,Andrea Filser,PER,0.0,0.0,de,1
+Eva Macht,Eva Macht,PER,0.2333333333333333,0.0,de,1
+Florian Huettl,Florian Huettl,PER,0.0,0.0,de,1
 Sarah Werner,Sarah Werner,PER,0.7,0.0,de,1
-Flut,Flut,PER,0.7,0.0,de,1
+Floria Huettl,Floria Huettl,PER,0.0,0.0,de,1
+Olaf Lies,Olaf Lies,PER,0.0,0.0,de,1
+Angesichts Ukrainekrieg,Angesichts Ukrainekrieg,PER,0.0,0.0,de,1
+Petra V,Petra V,PER,0.0,0.0,de,1
+Florian Hahn,Florian Hahn,PER,-0.7,0.0,de,1
+Ola Källenius,Ola Källenius,PER,0.0,1.0,de,1
+Schnee-Star Maria Höfl-Riesch,Schnee-Star Maria Höfl-Riesch,PER,0.0,0.0,de,1
+Alga ents,Alga ents,PER,0.0,0.0,de,1
+Anton Hofreiter,Anton Hofreiter,PER,-0.7,0.0,de,1

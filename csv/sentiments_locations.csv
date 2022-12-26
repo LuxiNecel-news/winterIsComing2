@@ -1,149 +1,175 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutschland,Deutschland,LOC,0.08627450980392158,0.11764705882352941,de,17
-Deutschlands,Deutschlands,LOC,-0.24,0.1,de,10
+Deutschland,Deutschland,LOC,0.06984126984126984,0.1873015873015873,de,21
+Deutschlands,Deutschlands,LOC,-0.26153846153846155,0.23076923076923078,de,13
 Levi,Levi,LOC,0.08416666666666667,0.0,de,8
 New South Wales,New South Wales,LOC,0.04999999999999999,0.0,de,8
+Berlin,Berlin,LOC,0.09999999999999999,0.0,de,7
+Europa,Europa,LOC,0.34285714285714286,0.42857142857142855,de,7
 Alpen,Alpen,LOC,0.16666666666666666,0.3333333333333333,de,6
-Europa,Europa,LOC,0.2833333333333333,0.5,de,6
 Venedig,Venedig,LOC,0.11666666666666665,0.0,de,6
-China,China,LOC,0.4,0.0,de,5
+Europas,Europas,LOC,0.0,0.0,de,5
 Australien,Australien,LOC,-0.2,0.2,de,5
-Berlin,Berlin,LOC,0.13999999999999999,0.0,de,5
-Nordseestrand.,Nordseestrand.,LOC,0.0,0.0,de,4
+China,China,LOC,0.4,0.0,de,5
+ZH,ZH,LOC,0.0,0.0,de,4
+Zürich,Zürich,LOC,-0.25,0.0,de,4
+Deutschland.,Deutschland.,LOC,0.0,0.0,de,4
 München,München,LOC,0.0,0.25,de,4
 Russland,Russland,LOC,-0.25,0.0,de,4
-Deutschland.,Deutschland.,LOC,0.0,0.0,de,4
+Ukraine,Ukraine,LOC,-0.5,0.0,de,4
+Nordseestrand.,Nordseestrand.,LOC,0.0,0.0,de,4
+Regensburg,Regensburg,LOC,0.4666666666666666,0.0,de,3
+Österreich,Österreich,LOC,0.0,0.0,de,3
+Schweiz,Schweiz,LOC,0.18333333333333326,0.0,de,3
+Zürs,Zürs,LOC,0.0,0.0,de,3
+Australiens,Australiens,LOC,0.0,0.3333333333333333,de,3
+Sachsen,Sachsen,LOC,0.0,0.0,de,3
+Staaten,Staaten,LOC,-0.3333333333333333,0.0,de,3
+Skigebiete,Skigebiete,LOC,-0.2333333333333333,0.0,de,3
+USA,USA,LOC,0.3333333333333333,0.0,de,3
 "Podcasts
 ","Podcasts
 ",LOC,0.6999999999999998,0.0,de,3
 Audioinhalten,Audioinhalten,LOC,0.6999999999999998,0.0,de,3
-Europas,Europas,LOC,0.0,0.0,de,3
-Sachsen,Sachsen,LOC,0.0,0.0,de,3
-Australiens,Australiens,LOC,0.0,0.3333333333333333,de,3
-Zürs,Zürs,LOC,0.0,0.0,de,3
-USA,USA,LOC,0.3333333333333333,0.0,de,3
-Regensburg,Regensburg,LOC,0.4666666666666666,0.0,de,3
-Staaten,Staaten,LOC,-0.3333333333333333,0.0,de,3
 Lake Louise,Lake Louise,LOC,0.0,0.0,de,3
-Skigebiete,Skigebiete,LOC,-0.2333333333333333,0.0,de,3
-Herzogenauracher,Herzogenauracher,LOC,-0.35,0.0,de,2
-Krim-Brücke,Krim-Brücke,LOC,-0.5,0.0,de,2
-Haus flattert?,Haus flattert?,LOC,0.0,0.0,de,2
-Duisburg-Wanheimerort,Duisburg-Wanheimerort,LOC,0.0,0.0,de,2
 Duisburg,Duisburg,LOC,0.0,0.0,de,2
-Klimaaktivisten,Klimaaktivisten,LOC,0.0,0.0,de,2
+Giesinger Autobahn,Giesinger Autobahn,LOC,0.7,0.0,de,2
 Markusplatz,Markusplatz,LOC,0.35,0.0,de,2
+Krim-Brücke,Krim-Brücke,LOC,-0.5,0.0,de,2
 fünfmaliger,fünfmaliger,LOC,0.0,0.0,de,2
-Ukraine,Ukraine,LOC,-1.0,0.0,de,2
-Landkreis München,Landkreis München,LOC,0.0,0.0,de,2
-Australien.,Australien.,LOC,0.0,0.0,de,2
-Skihänge,Skihänge,LOC,0.0,1.0,de,2
+Kiew,Kiew,LOC,-0.35,0.0,de,2
+Klimaaktivisten,Klimaaktivisten,LOC,0.0,0.0,de,2
+Aargauer,Aargauer,LOC,0.0,0.0,de,2
+Duisburg-Wanheimerort,Duisburg-Wanheimerort,LOC,0.0,0.0,de,2
+Oberhaching,Oberhaching,LOC,0.7,0.0,de,2
+Herzogenauracher,Herzogenauracher,LOC,-0.35,0.0,de,2
 Wilhelmshaven,Wilhelmshaven,LOC,-0.15000000000000002,0.0,de,2
-Pariser,Pariser,LOC,-1.0,0.0,de,2
-Schweiz,Schweiz,LOC,0.7749999999999999,0.0,de,2
-Hochwasserschutzes an der Donau,Hochwasserschutzes an der Donau,LOC,0.0,0.0,de,2
-Bayern,Bayern,LOC,0.0,0.0,de,2
-Westhafen,Westhafen,LOC,0.7,0.0,de,2
-Levi: Der verflixte,Levi: Der verflixte,LOC,-0.10499999999999998,0.0,de,2
-Tirol,Tirol,LOC,0.85,0.0,de,2
-Italien,Italien,LOC,0.0,0.0,de,2
+Haus flattert?,Haus flattert?,LOC,0.0,0.0,de,2
 Stadt Venedig,Stadt Venedig,LOC,0.0,0.0,de,2
-Stadt,Stadt,LOC,0.0,0.0,de,2
-Dreßen,Dreßen,LOC,0.0,0.0,de,2
-Lake Louise?,Lake Louise?,LOC,0.0,0.0,de,2
-Venedig:,Venedig:,LOC,0.0,0.0,de,2
-Vielerorts,Vielerorts,LOC,0.7,0.0,de,2
+Dachauer,Dachauer,LOC,-1.0,0.0,de,2
+Thüringen,Thüringen,LOC,0.7,0.0,de,2
+Kaprun,Kaprun,LOC,0.5,0.0,de,2
 Olympia-Zukunft des Sports,Olympia-Zukunft des Sports,LOC,0.0,0.0,de,2
-Palaver-Runden,Palaver-Runden,LOC,0.0,0.0,de,2
-Brüssel,Brüssel,LOC,0.0,0.0,de,2
-Gletscherabfahrten,Gletscherabfahrten,LOC,0.0,0.0,de,2
-ZH,ZH,LOC,0.0,0.0,de,2
-Kontinents,Kontinents,LOC,0.0,0.0,de,2
-Broadway,Broadway,LOC,0.7,0.0,de,2
-La Niña,La Niña,LOC,0.0,0.0,de,2
-Verkehrsministerium,Verkehrsministerium,LOC,0.0,0.0,de,2
-Zürich,Zürich,LOC,0.0,0.0,de,2
+Venedig:,Venedig:,LOC,0.0,0.0,de,2
+Lake Louise?,Lake Louise?,LOC,0.0,0.0,de,2
+Dreßen,Dreßen,LOC,0.0,0.0,de,2
+Stadt,Stadt,LOC,0.0,0.0,de,2
+Italien,Italien,LOC,0.0,0.0,de,2
+Skihänge,Skihänge,LOC,0.0,1.0,de,2
+Tirol,Tirol,LOC,0.85,0.0,de,2
+Japan,Japan,LOC,0.0,0.0,de,2
+Levi: Der verflixte,Levi: Der verflixte,LOC,-0.10499999999999998,0.0,de,2
+Westhafen,Westhafen,LOC,0.7,0.0,de,2
+Bayern,Bayern,LOC,0.0,0.0,de,2
+Hochwasserschutzes an der Donau,Hochwasserschutzes an der Donau,LOC,0.0,0.0,de,2
+Pariser,Pariser,LOC,-1.0,0.0,de,2
+Australien.,Australien.,LOC,0.0,0.0,de,2
+Vielerorts,Vielerorts,LOC,0.7,0.0,de,2
+Landkreis München,Landkreis München,LOC,0.0,0.0,de,2
 Karlsfeld-West,Karlsfeld-West,LOC,-0.7,0.0,de,2
-Matterhorn,Matterhorn,LOC,0.0,0.0,de,2
+Kontinents,Kontinents,LOC,0.0,0.0,de,2
+La Niña,La Niña,LOC,0.0,0.0,de,2
+Estland.,Estland.,LOC,0.0,0.0,de,2
+Strom-Ladesäulen,Strom-Ladesäulen,LOC,0.7,0.0,de,2
+Verkehrsministerium,Verkehrsministerium,LOC,0.0,0.0,de,2
+Österreichs,Österreichs,LOC,0.0,0.5,de,2
+Broadway,Broadway,LOC,0.7,0.0,de,2
+Brauneck-Bergbahn,Brauneck-Bergbahn,LOC,0.0,1.0,de,2
 Scholz-Macron,Scholz-Macron,LOC,0.0,0.0,de,2
+Matterhorn,Matterhorn,LOC,0.0,0.0,de,2
+Gletscherabfahrten,Gletscherabfahrten,LOC,0.0,0.0,de,2
+Brüssel,Brüssel,LOC,0.0,0.0,de,2
+Palaver-Runden,Palaver-Runden,LOC,0.0,0.0,de,2
+…,…,LOC,0.0,0.0,de,2
 Zermatt,Zermatt,LOC,-0.575,0.0,de,2
-Österreich,Österreich,LOC,0.0,0.0,de,2
-Canberra.,Canberra.,LOC,0.0,0.0,de,1
-Schnee-Skibrille Markt,Schnee-Skibrille Markt,LOC,0.0,0.0,de,1
-"Schnee-Skibrille Markt 2022
-","Schnee-Skibrille Markt 2022
-",LOC,0.0,0.0,de,1
-Donau,Donau,LOC,0.0,0.0,de,1
-Teuer-Winter.,Teuer-Winter.,LOC,-0.15000000000000002,0.0,de,1
-Großer Kosten-Hammer,Großer Kosten-Hammer,LOC,-0.15000000000000002,0.0,de,1
-Grossbritannien,Grossbritannien,LOC,0.35,0.5,de,1
-Ostaustraliens verwüste…,Ostaustraliens verwüste…,LOC,0.7,0.0,de,1
-Männer,Männer,LOC,-1.0,0.0,de,1
-Sidney,Sidney,LOC,-0.7,0.0,de,1
-Niedersachsens,Niedersachsens,LOC,0.0,0.0,de,1
-Wyangala-Damm,Wyangala-Damm,LOC,0.0,0.0,de,1
-Skigebieten,Skigebieten,LOC,0.0,0.0,de,1
-Australien: Massive Überschwemmungen,Australien: Massive Überschwemmungen,LOC,-1.0,0.0,de,1
-Briten,Briten,LOC,1.0,0.0,de,1
-Weltskiverband,Weltskiverband,LOC,0.0,0.0,de,1
-Cotswolds,Cotswolds,LOC,0.7,0.0,de,1
-Überschwemmungen,Überschwemmungen,LOC,0.0,0.0,de,1
-Eugowra,Eugowra,LOC,0.0,0.0,de,1
-Forsteralm,Forsteralm,LOC,0.0,0.0,de,1
 Preisschock,Preisschock,LOC,0.0,0.0,de,1
 bayerische Umweltministerium,bayerische Umweltministerium,LOC,0.7,0.0,de,1
+Briten,Briten,LOC,1.0,0.0,de,1
+Donau,Donau,LOC,0.0,0.0,de,1
+Teuer-Winter.,Teuer-Winter.,LOC,-0.15000000000000002,0.0,de,1
+MV Werften +++ Inflation,MV Werften +++ Inflation,LOC,-0.7,0.0,de,1
+Großer Kosten-Hammer,Großer Kosten-Hammer,LOC,-0.15000000000000002,0.0,de,1
+Berkeley Square,Berkeley Square,LOC,0.0,0.0,de,1
+Grossbritannien,Grossbritannien,LOC,0.35,0.5,de,1
+Waidhofen an der Ybbs,Waidhofen an der Ybbs,LOC,0.0,0.0,de,1
+Ostaustraliens verwüste…,Ostaustraliens verwüste…,LOC,0.7,0.0,de,1
+Canberra.,Canberra.,LOC,0.0,0.0,de,1
+Sidney,Sidney,LOC,-0.7,0.0,de,1
+Eugowra,Eugowra,LOC,0.0,0.0,de,1
+Skigebieten,Skigebieten,LOC,0.0,0.0,de,1
+Australien: Massive Überschwemmungen,Australien: Massive Überschwemmungen,LOC,-1.0,0.0,de,1
+Cotswolds,Cotswolds,LOC,0.7,0.0,de,1
+Niedersachsens,Niedersachsens,LOC,0.0,0.0,de,1
+Männer,Männer,LOC,-1.0,0.0,de,1
+Überschwemmungen,Überschwemmungen,LOC,0.0,0.0,de,1
+Weltskiverband,Weltskiverband,LOC,0.0,0.0,de,1
+Forsteralm,Forsteralm,LOC,0.0,0.0,de,1
+Hessischen Bergstraße,Hessischen Bergstraße,LOC,0.7,0.0,de,1
+Oberösterreich.,Oberösterreich.,LOC,0.0,0.0,de,1
+Telfs,Telfs,LOC,0.0,0.0,de,1
+Ski-Saison,Ski-Saison,LOC,0.0,0.0,de,1
+Wintersport-Touristen,Wintersport-Touristen,LOC,0.0,0.0,de,1
+Kalte,Kalte,LOC,0.0,0.0,de,1
+Frankreich,Frankreich,LOC,0.0,0.0,de,1
+W. Vichtl.</em,W. Vichtl.</em,LOC,0.0,0.0,de,1
+Stadtzürcher,Stadtzürcher,LOC,0.0,0.0,de,1
+Energiekrieg.,Energiekrieg.,LOC,1.0,0.0,de,1
 Olympia-Aus,Olympia-Aus,LOC,-1.0,0.0,de,1
 Demaclenko,Demaclenko,LOC,0.0,0.0,de,1
 Prinoth,Prinoth,LOC,0.0,0.0,de,1
 Nordamerika,Nordamerika,LOC,0.0,0.0,de,1
-Telfs,Telfs,LOC,0.0,0.0,de,1
 Tiroler,Tiroler,LOC,0.0,0.0,de,1
+Ski alpin: Dürr,Ski alpin: Dürr,LOC,-0.7,0.0,de,1
 snowit,snowit,LOC,1.0,0.0,de,1
 Südtirol,Südtirol,LOC,0.7,0.0,de,1
-Frankreich,Frankreich,LOC,0.0,0.0,de,1
-Stadtzürcher,Stadtzürcher,LOC,0.0,0.0,de,1
-München.,München.,LOC,0.0,0.0,de,1
+Tallinn,Tallinn,LOC,0.0,0.0,de,1
+Bern.,Bern.,LOC,0.0,0.0,de,1
 Hochwassers Flutschutztore,Hochwassers Flutschutztore,LOC,0.0,0.0,de,1
-Bergsträsser,Bergsträsser,LOC,1.0,0.0,de,1
+München.,München.,LOC,0.0,0.0,de,1
 Wintersport-Hochburgen,Wintersport-Hochburgen,LOC,0.0,0.0,de,1
-Hessischen Bergstraße,Hessischen Bergstraße,LOC,0.7,0.0,de,1
+Bergsträsser,Bergsträsser,LOC,1.0,0.0,de,1
 Jungfrau-Region,Jungfrau-Region,LOC,0.85,0.0,de,1
-…,…,LOC,0.0,0.0,de,1
-Ski alpin: Dürr,Ski alpin: Dürr,LOC,-0.7,0.0,de,1
-Oberösterreich.,Oberösterreich.,LOC,0.0,0.0,de,1
-Waidhofen an der Ybbs,Waidhofen an der Ybbs,LOC,0.0,0.0,de,1
-Weltcup-Verantwortlichen,Weltcup-Verantwortlichen,LOC,0.0,0.0,de,1
-Dächern gerette…,Dächern gerette…,LOC,0.0,1.0,de,1
-Harrods,Harrods,LOC,0.0,0.0,de,1
+"Schnee-Skibrille Markt 2022
+","Schnee-Skibrille Markt 2022
+",LOC,0.0,0.0,de,1
+Japans,Japans,LOC,0.0,0.0,de,1
+Wyangala-Damm,Wyangala-Damm,LOC,0.0,0.0,de,1
 New York,New York,LOC,0.85,0.0,de,1
-Köln,Köln,LOC,0.0,0.0,de,1
+Schnee-Skibrille Markt,Schnee-Skibrille Markt,LOC,0.0,0.0,de,1
+Dächern gerette…,Dächern gerette…,LOC,0.0,1.0,de,1
+Zürich:,Zürich:,LOC,0.0,0.0,de,1
+Markusplatz.,Markusplatz.,LOC,0.7,0.0,de,1
+Wasser,Wasser,LOC,0.7,0.0,de,1
 Keramikspur,Keramikspur,LOC,0.0,0.0,de,1
 Wisla,Wisla,LOC,0.0,0.0,de,1
+Jahres,Jahres,LOC,0.0,0.0,de,1
 nan Venedig,nan Venedig,LOC,0.0,0.0,de,1
 Venedig.,Venedig.,LOC,0.0,0.0,de,1
 Dingolfing,Dingolfing,LOC,0.0,0.0,de,1
 Eisenach,Eisenach,LOC,0.0,0.0,de,1
-Jahres,Jahres,LOC,0.0,0.0,de,1
+Franken,Franken,LOC,0.0,0.0,de,1
 Nutzfahrzeugherstellers,Nutzfahrzeugherstellers,LOC,0.0,0.0,de,1
 Algarve,Algarve,LOC,0.0,0.0,de,1
-Österreichs,Österreichs,LOC,0.0,0.0,de,1
-Aldi Süd,Aldi Süd,LOC,0.0,0.0,de,1
-Markusplatz.,Markusplatz.,LOC,0.7,0.0,de,1
-Amerika,Amerika,LOC,0.0,0.0,de,1
 österreichische Regierung,österreichische Regierung,LOC,0.0,0.0,de,1
+Köln,Köln,LOC,0.0,0.0,de,1
+Aldi Süd,Aldi Süd,LOC,0.0,0.0,de,1
+Amerika,Amerika,LOC,0.0,0.0,de,1
+Aargauer Obergericht,Aargauer Obergericht,LOC,-1.0,0.0,de,1
+London:,London:,LOC,0.0,0.0,de,1
+Harrods,Harrods,LOC,0.0,0.0,de,1
+Die Schweiz,Die Schweiz,LOC,-0.7,0.0,de,1
+London,London,LOC,0.0,0.0,de,1
 Mahnwache am Marienplatz: Demonstranten,Mahnwache am Marienplatz: Demonstranten,LOC,0.0,0.0,de,1
 Weltcup-Winter,Weltcup-Winter,LOC,0.0,0.0,de,1
 Migros-Daily-Filiale,Migros-Daily-Filiale,LOC,0.0,0.0,de,1
 Hauptbahnhof Zürich,Hauptbahnhof Zürich,LOC,0.0,0.0,de,1
 Migros-Filiale,Migros-Filiale,LOC,0.0,0.0,de,1
-Energiespardebatten,Energiespardebatten,LOC,-1.0,0.0,de,1
-London:,London:,LOC,0.0,0.0,de,1
-Berkeley Square,Berkeley Square,LOC,0.0,0.0,de,1
-Verbrenner-Aus kommt!,Verbrenner-Aus kommt!,LOC,0.0,0.0,de,1
-Kantons Zürich,Kantons Zürich,LOC,0.0,0.0,de,1
-Detroit,Detroit,LOC,0.85,0.0,de,1
+nel.,nel.,LOC,0.0,0.0,de,1
+Konflikt-Experte,Konflikt-Experte,LOC,-1.0,0.0,de,1
+Regierung: Hochwasser-App «Meine Pegel» auch in,Regierung: Hochwasser-App «Meine Pegel» auch in,LOC,0.0,0.0,de,1
 Zusammenraufens,Zusammenraufens,LOC,0.0,0.0,de,1
-London,London,LOC,0.0,0.0,de,1
+Weltcup-Verantwortlichen,Weltcup-Verantwortlichen,LOC,0.0,0.0,de,1
+Energiespardebatten,Energiespardebatten,LOC,-1.0,0.0,de,1
+Detroit,Detroit,LOC,0.85,0.0,de,1
 Sirenenanlagen,Sirenenanlagen,LOC,0.0,0.0,de,1
 Ahrtal,Ahrtal,LOC,0.0,0.0,de,1
 Levi.,Levi.,LOC,0.7,0.0,de,1
@@ -154,15 +180,17 @@ Rickenbach Sulz auf der Burgstrasse,Rickenbach Sulz auf der Burgstrasse,LOC,0.0,
 Flughafen,Flughafen,LOC,0.0,0.0,de,1
 Zürich: Unbekannter Mann greift Mädchen,Zürich: Unbekannter Mann greift Mädchen,LOC,0.0,0.0,de,1
 Ukraine-Krieg,Ukraine-Krieg,LOC,-1.0,0.0,de,1
-Regierung: Hochwasser-App «Meine Pegel» auch in,Regierung: Hochwasser-App «Meine Pegel» auch in,LOC,0.0,0.0,de,1
+Luxemburg,Luxemburg,LOC,0.0,0.0,de,1
+Agri-Photovoltaik.,Agri-Photovoltaik.,LOC,1.0,0.0,de,1
 Tempolimt,Tempolimt,LOC,0.0,0.0,de,1
-Kiew,Kiew,LOC,0.0,0.0,de,1
+Vorstandsrang,Vorstandsrang,LOC,0.0,0.0,de,1
 Privacy Center,Privacy Center,LOC,0.0,0.0,de,1
 Krim,Krim,LOC,-1.0,0.0,de,1
 Schwarzmeer-Halbinsel,Schwarzmeer-Halbinsel,LOC,-1.0,0.0,de,1
-Vorstandsrang,Vorstandsrang,LOC,0.0,0.0,de,1
+Klima-Veränderungen,Klima-Veränderungen,LOC,0.7,0.0,de,1
 Wien,Wien,LOC,0.0,1.0,de,1
 ZH 100,ZH 100,LOC,0.0,0.0,de,1
 Kontrollschilder-Auktion,Kontrollschilder-Auktion,LOC,0.0,0.0,de,1
-Luxemburg,Luxemburg,LOC,0.0,0.0,de,1
-Wasser,Wasser,LOC,0.7,0.0,de,1
+Kantons Zürich,Kantons Zürich,LOC,0.0,0.0,de,1
+Verbrenner-Aus kommt!,Verbrenner-Aus kommt!,LOC,0.0,0.0,de,1
+Neukölln,Neukölln,LOC,-1.0,0.0,de,1
